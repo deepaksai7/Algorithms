@@ -44,6 +44,7 @@ void printarray(int arr[], int n)
     }
     printf("\n");
 }
+
 void main()
 { int size;
   printf("enter the size of the array:");
